@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- RTL2838 DVB-T -->
+    <usb-device vendor-id="3034" product-id="10296" />
+    <!-- RTL2832U DVB-T -->
+    <usb-device vendor-id="3034" product-id="10290" />
+    <!-- RTL2834 DVB-T -->
+    <usb-device vendor-id="3034" product-id="10292" />
+    <!-- RTL2837 DVB-T -->
+    <usb-device vendor-id="3034" product-id="10295" />
+    <!-- HackRF One -->
+    <usb-device vendor-id="7504" product-id="24651" />
+    <usb-device vendor-id="7504" product-id="24713" />
+    <!-- Airspy Mini -->
+    <usb-device vendor-id="7504" product-id="24737" />
+    <!-- Airspy R2 -->
+    <usb-device vendor-id="1003" product-id="32780" />
+    <!-- Airspy HF+ -->
+    <usb-device vendor-id="1003" product-id="32781" />
+
+    <!-- Autres variantes RTL-SDR courantes -->
+    <usb-device vendor-id="3034" product-id="10297" />
+    <usb-device vendor-id="3034" product-id="10298" />
+    <usb-device vendor-id="3034" product-id="10299" />
+
+    <!-- Filtres génériques par fabricant -->
+    <usb-device vendor-id="3034" /> <!-- Realtek (RTL-SDR) -->
+    <usb-device vendor-id="7504" /> <!-- OpenMoko/Great Scott Gadgets -->
+    <usb-device vendor-id="1003" /> <!-- Atmel (Airspy) -->
+</resources>
